@@ -29,8 +29,8 @@ proguard/
 .gradle/
 build/
 bin/
-gradlew
-gradlew.bat
+#gradlew
+#gradlew.bat
 
 7bits-checkstyle.xml
 
